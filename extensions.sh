@@ -24,7 +24,8 @@ code --install-extension PKief.material-icon-theme
 code --install-extension peterj.proto
 code --install-extension Tchoupinax.tilt
 code --install-extension timonwong.shellcheck
-code --install-extension vscoss.vscode-ansible
+code --install-extension redhat.ansible
+code --install-extension redhat.vscode-yaml
 code --install-extension wholroyd.jinja
 code --install-extension wix.vscode-import-cost
 code --install-extension yzhang.markdown-all-in-one
