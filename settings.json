@@ -1,0 +1,46 @@
+{
+    "window.zoomLevel": -1,
+    "python.linting.flake8Path": "~/Envs/venv/bin/flake8",
+    "python.linting.pylintPath": "~/Envs/venv/bin/pylint",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false,
+    "editor.insertSpaces": false,
+    "vim.handleKeys": {
+        "<C-c>": false,
+        "<C-v>": false,
+        "<C-f>": false,
+        "<C-a>": false,
+        "<C-x>": false,
+        "<C-n>": false
+    },
+    "editor.cursorStyle": "line",
+    "editor.lineNumbers": "on",
+    "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+    "javascript.update ImportsOnFileMove.enabled": "always",
+    "search.followSymlinks": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
+    "[shell]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
+    "[javascript]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+    "[json]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+    "[go]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    }
+}

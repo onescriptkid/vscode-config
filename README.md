@@ -9,7 +9,7 @@ My VScode settings, configs, and plugins
 
 ```shell
 git clone git@github.com:onescriptkid/vscode-config.git
-pushd vscode-config.git > /dev/null
+pushd vscode-config > /dev/null
 ./extensions.sh
 cp settings.json ~/.config/Code/User/settings.json
 ```
