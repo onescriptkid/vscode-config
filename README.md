@@ -19,6 +19,7 @@ cp settings.json ~/.config/Code/User/settings.json
     "window.zoomLevel": -1,
     "python.linting.flake8Path": "~/Envs/venv/bin/flake8",
     "python.linting.pylintPath": "~/Envs/venv/bin/pylint",
+    "editor.bracketPairColorization.enabled": true,
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
