@@ -31,7 +31,8 @@ cp settings.json ~/.config/Code/User/settings.json
         "<C-f>": false,
         "<C-a>": false,
         "<C-x>": false,
-        "<C-n>": false
+        "<C-n>": false,
+        "<C-y>": false
     },
     "editor.cursorStyle": "line",
     "editor.lineNumbers": "on",
