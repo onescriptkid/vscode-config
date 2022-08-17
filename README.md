@@ -36,7 +36,7 @@ cp settings.json ~/.config/Code/User/settings.json
     "editor.cursorStyle": "line",
     "editor.lineNumbers": "on",
     "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
-    "javascript.update ImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
     "search.followSymlinks": false,
     "explorer.confirmDragAndDrop": false,
     "editor.wordWrap": "on",
