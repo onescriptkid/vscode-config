@@ -15,7 +15,8 @@
         "<C-a>": false,
         "<C-x>": false,
         "<C-n>": false,
-        "<C-y>": false
+        "<C-y>": false,
+        "<C-z>": false
     },
     "editor.cursorStyle": "line",
     "editor.lineNumbers": "on",

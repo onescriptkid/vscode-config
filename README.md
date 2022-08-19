@@ -32,7 +32,8 @@ cp settings.json ~/.config/Code/User/settings.json
         "<C-a>": false,
         "<C-x>": false,
         "<C-n>": false,
-        "<C-y>": false
+        "<C-y>": false,
+        "<C-z>": false
     },
     "editor.cursorStyle": "line",
     "editor.lineNumbers": "on",
@@ -97,4 +98,10 @@ code --install-extension wholroyd.jinja
 code --install-extension wix.vscode-import-cost
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension vscodevim.vim
+```
+
+### Fix git issues
+```
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519_onescriptkid
 ```
