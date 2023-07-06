@@ -35,6 +35,7 @@ cp settings.json ~/.config/Code/User/settings.json
         "<C-y>": false,
         "<C-z>": false
     },
+    "editor.renderWhitespace": "all", 
     "editor.cursorStyle": "line",
     "editor.lineNumbers": "on",
     "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
