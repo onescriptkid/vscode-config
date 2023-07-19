@@ -16,7 +16,7 @@ cp settings.json ~/.config/Code/User/settings.json
 ## [settings.json](./settings.json)
 ```json
 {
-    "window.zoomLevel": -1,
+    "window.zoomLevel": 0.8,
     "python.linting.flake8Path": "~/Envs/venv/bin/flake8",
     "python.linting.pylintPath": "~/Envs/venv/bin/pylint",
     "editor.bracketPairColorization.enabled": true,
@@ -35,6 +35,7 @@ cp settings.json ~/.config/Code/User/settings.json
         "<C-y>": false,
         "<C-z>": false
     },
+    "editor.fontSize": 10,
     "editor.renderWhitespace": "all", 
     "editor.cursorStyle": "line",
     "editor.lineNumbers": "on",
