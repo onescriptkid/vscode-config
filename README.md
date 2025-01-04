@@ -59,7 +59,8 @@ cp settings.json ~/.config/Code/User/settings.json
     },
     "[json]": {
         "editor.insertSpaces": true,
-        "editor.tabSize": 2
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[go]": {
         "editor.insertSpaces": true,
@@ -100,6 +101,7 @@ code --install-extension wholroyd.jinja
 code --install-extension wix.vscode-import-cost
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension vscodevim.vim
+code --install-extension esbenp.prettier-vscode
 ```
 
 ### Fix git issues

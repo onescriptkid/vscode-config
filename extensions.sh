@@ -30,3 +30,4 @@ code --install-extension wholroyd.jinja
 code --install-extension wix.vscode-import-cost
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension vscodevim.vim
+code --install-extension esbenp.prettier-vscode
